@@ -1,10 +1,12 @@
 ---
-title: "Connorlu Main"
+title: "Connorlu的第一封Hugo帖子 "
 date: 2017-11-05T09:56:15+08:00
 ---
 
-#Connorlu's Main Web Site
+#网站目录
 
-十二届全国人大常委会第三十次会议4日下午表决通过刑法修正案（十）。在刑法第299条中增加一款规定，明确在公共场合侮辱国歌情节严重的，处3年以下有期徒刑、拘役、管制或者剥夺政治权利。
+cd /root/go/src/github.com/gohugoio/hugo/connorlu
 
-十二届全国人大常委会第三十次会议4日下午表决通过刑法修正案（十）。在刑法第299条中增加一款规定，明确在公共场合侮辱国歌情节严重的，处3年以下有期徒刑、拘役、管制或者剥夺政治权利。
+#开启hugo
+
+hugo server --watch --renderToDisk --bind="0.0.0.0" --port=80 --baseUrl="connorlu.vip" &
