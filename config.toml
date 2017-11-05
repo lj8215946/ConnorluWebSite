@@ -1,0 +1,4 @@
+baseURL = "http://connorlu.vip/"
+languageCode = "en-us"
+title = "Connorlu's Website"
+theme = "ananke"
