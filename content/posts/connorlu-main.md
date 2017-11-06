@@ -6,7 +6,9 @@ date: 2017-11-05T09:56:15+08:00
 
 ## 进入网页目录
 
+{{< highlight shell >}}
 cd /root/go/src/github.com/gohugoio/hugo/connorlu
+{{< / highlight >}}
 
 ## 更新代码
 
