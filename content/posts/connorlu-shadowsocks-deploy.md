@@ -6,19 +6,19 @@ date: 2017-11-05T09:56:15+08:00
 
 ## 安装
 
-{{< highlight shell >}}
+{{< highlight shell "linenostart=199" >}}
 yum install python-setuptools && easy_install pip
 pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 {{< / highlight >}}
 
 ## 启动服务器
 
-{{< highlight shell >}}
-sudo ssserver -p 443 -k lj19881010 -m aes-256-cfb --user nobody -d start
+{{< highlight shell "linenostart=199" >}}
+sudo ssserver -p {端口号} -k {密码} -m aes-256-cfb --user nobody -d start
 {{< / highlight >}}
 
 ## 关闭服务器
 
-{{< highlight shell >}}
+{{< highlight shell "linenostart=199" >}}
 sudo ssserver -d stop
 {{< / highlight >}}
