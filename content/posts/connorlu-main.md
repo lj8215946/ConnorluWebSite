@@ -1,6 +1,7 @@
 ---
 title: "Hugo服务更新"
 date: 2017-11-05T09:56:15+08:00
+author: "Connor Lu"
 ---
 # Hugo服务更新方法
 

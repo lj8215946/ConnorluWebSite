@@ -1,6 +1,7 @@
 ---
 title: "Shadowsocks部署"
 date: 2017-11-05T09:56:15+08:00
+author: "Connor Lu"
 ---
 # Shadowsocks部署步骤
 
