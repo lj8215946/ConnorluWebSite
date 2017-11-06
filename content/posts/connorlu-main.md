@@ -12,6 +12,3 @@ cd /root/go/src/github.com/gohugoio/hugo/connorlu
 hugo server --watch --renderToDisk --bind="0.0.0.0" --port=80 --baseUrl="connorlu.vip" &
 
 
-add some new lines
-
-add a new line to test
