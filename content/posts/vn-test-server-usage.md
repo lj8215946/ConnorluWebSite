@@ -9,7 +9,7 @@ author: "Connor Lu"
 
 <https://github.com/lj8215946/VNTestServer.git>
 
-{{< figure src="/public/github-vntestserver-shortcut.png" title="VN Test Server Github Home Page" link="https://github.com/lj8215946/VNTestServer" >}}
+{{< figure src="/media/github-vntestserver-shortcut.png" title="VN Test Server Github Home Page" link="https://github.com/lj8215946/VNTestServer" >}}
 
 ## 代码获取及提交
 
@@ -19,7 +19,7 @@ author: "Connor Lu"
 git clone https://github.com/lj8215946/VNTestServer.git
 {{< / highlight >}}
 
-{{< figure src="/public/vntestserver-main-folder.png" title="VN Test Server Main Folder" >}}
+{{< figure src="/media/vntestserver-main-folder.png" title="VN Test Server Main Folder" >}}
 
 2. 添加文件
 
@@ -37,7 +37,7 @@ git clone https://github.com/lj8215946/VNTestServer.git
 }
 {{< / highlight >}}
 
-{{< figure src="/public/vntestserver-static-files.png" title="VN Test Server Add Static Files" >}}
+{{< figure src="/media/vntestserver-static-files.png" title="VN Test Server Add Static Files" >}}
 
 3. 提交文件
 
@@ -58,9 +58,9 @@ git push origin master
 <http://connorlu.vip:3000/xxxxxx>  //xxxxxx代表具体服务的路径
 例如：
 <http://connorlu.vip:3000/test.json>
-{{< figure src="/public/vntestserver-static-files-preview.png" title="VN Test Server Preview Static Files " >}}
+{{< figure src="/media/vntestserver-static-files-preview.png" title="VN Test Server Preview Static Files " >}}
 
 ## 其他说明
 
 动态代码需要修改/VNTestServer/index.js
-{{< figure src="/public/vntestserver-dymatic-files.png" title="VN Test Server Dynamic Files " >}}
+{{< figure src="/media/vntestserver-dymatic-files.png" title="VN Test Server Dynamic Files " >}}
