@@ -5,10 +5,14 @@ author: "Connor Lu"
 ---
 # Adaconda 代理设置
 
+## 创建配置文件
+
 you need to create a .condarc file in you Windows user area:
 
 C:\Users\<username>\
 The file should contain:
+
+## 配置文件内容如下
 
 channels:
 \- defaults
