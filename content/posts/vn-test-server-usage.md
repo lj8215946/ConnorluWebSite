@@ -42,13 +42,13 @@ git clone https://github.com/lj8215946/VNTestServer.git
 3. 提交文件
 
 {{< highlight shell "linenostart=1" >}}
-# 将添加文件纳入版本控制
+\# 将添加文件纳入版本控制
 git add .
-# 在本地提交文件
+\# 在本地提交文件
 git commit -a -m "提交的说明"
-# 更新服务器端代码
+\# 更新服务器端代码
 git pull origin master
-# 推送代码至服务器端
+\# 推送代码至服务器端
 git push origin master
 {{< / highlight >}}
 
@@ -63,4 +63,4 @@ git push origin master
 ## 其他说明
 
 动态代码需要修改/VNTestServer/index.js
-{{< figure src="/media/vntestserver-dymatic-files.png" title="VN Test Server Dynamic Files " >}}
+{{< figure src="/media/vntestserver-dymatic-files.png" title="VN Test Server Dynamic Files" >}}
