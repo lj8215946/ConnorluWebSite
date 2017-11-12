@@ -58,7 +58,7 @@ git push origin master
 <http://connorlu.vip:3000/xxxxxx>  //xxxxxx代表具体服务的路径
 例如：
 <http://connorlu.vip:3000/test.json>
-{{< figure src="/media/vntestserver-static-files-preview.png" title="VN Test Server Preview Static Files " >}}
+{{< figure src="/media/vntestserver-static-files-preview.png" title="VN Test Server Preview Static Files" >}}
 
 ## 其他说明
 
