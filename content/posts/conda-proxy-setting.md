@@ -14,12 +14,12 @@ The file should contain:
 
 ## 配置文件内容
 
-{{< highlight python "linenostart=199" >}}
-\# channels:
-\- defaults
+{{< highlight python "linenos=table,linenostart=1" >}}
+# channels:
+- defaults
 
-\# Show channel URLs when displaying what is going to be downloaded and
-\# in 'conda list'. The default is False.
+# Show channel URLs when displaying what is going to be downloaded and
+# in 'conda list'. The default is False.
 show_channel_urls: True
 allow_other_channels: True
 

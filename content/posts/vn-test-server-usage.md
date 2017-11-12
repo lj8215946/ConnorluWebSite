@@ -15,7 +15,7 @@ author: "Connor Lu"
 
 1. 获取看代码
 
-{{< highlight shell "linenostart=1" >}}
+{{< highlight shell "linenos=table,linenostart=1" >}}
 git clone https://github.com/lj8215946/VNTestServer.git
 {{< / highlight >}}
 
@@ -25,7 +25,7 @@ git clone https://github.com/lj8215946/VNTestServer.git
 
 在/VNTestServer/public下面添加任何合法静态问题文件（HTML，CSS，JSON,JavaScript等）
 例如：
-{{< highlight javascript "linenostart=1" >}}
+{{< highlight javascript "linenos=table,linenostart=1" >}}
 {
     "errCode": 0,
     "name": "connorlu",
@@ -41,7 +41,7 @@ git clone https://github.com/lj8215946/VNTestServer.git
 
 3. 提交文件
 
-{{< highlight shell "linenostart=1" >}}
+{{< highlight shell "linenos=table,linenostart=1" >}}
 \# 将添加文件纳入版本控制
 git add .
 \# 在本地提交文件
