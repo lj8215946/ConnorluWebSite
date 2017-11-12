@@ -12,9 +12,10 @@ you need to create a .condarc file in you Windows user area:
 C:\Users\<username>\
 The file should contain:
 
-## 配置文件内容如下
+## 配置文件内容
 
-channels:
+{{< highlight python "linenostart=199" >}}
+\# channels:
 \- defaults
 
 \# Show channel URLs when displaying what is going to be downloaded and
@@ -27,3 +28,4 @@ proxy_servers:
     https: http://proxy.yourorg.org:port
 
 ssl_verify: False
+{{< / highlight >}}
